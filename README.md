@@ -16,3 +16,5 @@ Reranking prioritizes semantically similar documents to have high score and use 
 
 ## Embedding Adapters
 Embedding Adapters transforms the query vector space by squeezing and rotating to form a new space where the relevant documents are closer to the query and irrelevant documents are farther away.
+
+`Note` - More about Advanced RAG Techniques and all the methods discussed, can be found in advanced-retrieval-for-ai course by Chroma in deeplearning.ai.
